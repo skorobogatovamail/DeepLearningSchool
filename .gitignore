@@ -1,0 +1,11 @@
+.DS_Store
+.ipynb_checkpoints/
+*.csv
+*.jpg
+*.png
+*.gif
+*.pkl
+*.pickle
+__pycache__
+.ipynb_checkpoints
+*.weights
